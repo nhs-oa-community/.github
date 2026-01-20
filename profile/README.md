@@ -27,6 +27,9 @@
 </a> 
 </p>
 
+🚨 UNDER CONSTRUCTION 🚨
+Please be patient while we transition from NHS-R and NHS.pycom to NHS-OA!
+
 The NHS-Open Analytics Community (NHS-OA) was formed in late 2025, from the fusion of the NHS-R and NHS.pycom communities. NHS-R started in 2018 to promote the use of R in the NHS NHS.pycom served a similar role for python based coders. There is strength in numbers, and so many shared values and principles between the communities that it just made sense to bring them under one roof.  NHS-OA is a community that is broader than the NHS as we welcome members from the civil service, academia and the third sector.
 
 This repository hosts much of the community's work including packages and training materials, whilst the badges above all link to other sites which the community is involved with. Contributions to any work from the NHS-OA Community is always very welcome.
