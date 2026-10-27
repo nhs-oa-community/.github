@@ -68,3 +68,10 @@ https://shields.io/category/build
 </details> 
 
 -->
+
+## Organisation Management
+
+Owners of this organisation have full user rights to all repositories and organisation settings.
+Other roles that must be filled are Security Manager and Account Administrator.
+Members of subcommittees that require enhanced rights to GitHub content are added as organisation members before being added to the relevant subcommittee team. These teams have 'All-repository admin' rights.
+External collaborators who wish to contribute to the codebase should be given Write access to only the repositories they need to access. 
